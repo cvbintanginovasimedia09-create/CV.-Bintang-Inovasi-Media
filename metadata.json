@@ -1,0 +1,6 @@
+{
+  "name": "Bintang Inovasi Media - Event Production & CMS",
+  "description": "Platform Manajemen Produksi Event Profesional Bintang Inovasi Media dengan CMS Admin, Analisis Web, Sinkronisasi Cloud, dan Otomatisasi SEO Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
